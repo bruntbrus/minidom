@@ -1,0 +1,35 @@
+{
+  "name": "minidom",
+  "version": "1.0.0",
+  "description": "Minimal DOM wrapper for modern browsers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomas-enarsson/minidom.git"
+  },
+  "keywords": [
+    "dom"
+  ],
+  "author": "Tomas Enarsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomas-enarsson/minidom/issues"
+  },
+  "homepage": "https://github.com/tomas-enarsson/minidom#readme",
+  "devDependencies": {
+    "babel-preset-env": "^1.6.0",
+    "chai": "^4.1.0",
+    "finalhandler": "^1.0.3",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-jshint": "^2.0.4",
+    "gulp-sourcemaps": "^2.6.0",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1",
+    "mocha": "^3.4.2",
+    "serve-static": "^1.12.3"
+  }
+}
